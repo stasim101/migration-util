@@ -1,0 +1,5 @@
+dbmigration/MigrateOrganizations.class
+dbmigration/UserProjectData.class
+dbmigration/CreateProjectData.class
+dbmigration/MigrationUtility.class
+dbmigration/ProjectServiceData.class
